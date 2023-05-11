@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+
+.AzulOscuro {
+    color: rgb(22, 22, 110);
+    background-color: rgb(223, 223, 26); 
+}
+
+.AzulClaro {
+    color: rgb(65, 119, 255);
+}
+
+.AzulMas {
+    color: rgb(0, 174, 255);
+}
+
+.Azulp {
+    color: rgb(53, 144, 241);
+}
