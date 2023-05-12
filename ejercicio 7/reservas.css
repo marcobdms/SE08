@@ -2,6 +2,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.Bienvenido {
+    color: green;
+    margin-left: 20px;
+    border-bottom: gray 1px solid;
+    margin-right: 20px;
+}
+
 .centrar {
     color: orangered;
     align-items: center;
@@ -95,4 +102,9 @@ a {
 
 .banner {
     width: 100%;
+}
+
+.oso {
+    width: 300px;
+    display: flex;
 }
