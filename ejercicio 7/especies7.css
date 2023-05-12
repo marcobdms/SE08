@@ -2,40 +2,36 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.Verde {
-    color: green;
-}
-
-.Naranja {
-    color: orangered;
-}
-
 .centrar {
+    color: orangered;
     align-items: center;
     text-align: center;
 }
 
-
+.Verde {
+    color: green;
+}
 
 .centro {
     border: gray 1px solid;
-    margin-left: 1px;
-    margin-right: 1px;
+    padding-right: 20px;
 }
 
-.Bienvenido {
+.EspeciesVerdes {
     color: green;
-    margin-left: 20px;
     border-bottom: gray 1px solid;
+}
+
+h4 {
+    color: orangered;
+    margin-left: 20px;
     margin-right: 20px;
 }
 
+h3 {
+    margin-left: 20px;
+}
+
 p {
-    margin-left: 20px ;
+    margin-left: 20px
 }
-
-.navbar {
-    position: relative;
-}
-
-
